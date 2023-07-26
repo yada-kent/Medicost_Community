@@ -1,24 +1,56 @@
-# README
+# Medicost Community
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+---
 
-* Ruby version
+### サイトテーマ
 
-* System dependencies
+薬局の情報を共有できるSNSサイト
 
-* Configuration
+### テーマを選んだ理由
 
-* Database creation
+「Medicost Community」は薬剤師としての経験を持つ私が医療費についてもっと関心を持ってもらおうと思いつくったコミュニティサイトです。
 
-* Database initialization
+薬剤師の視点から、患者や利用者にとって重要な情報である調剤基本料の違いを広く知ってもらい、医療費の負担を軽減するお手伝いをしたいと考えています。
 
-* How to run the test suite
+ユーザー同士が情報を共有することで、より良い薬局の選択が可能になり、地域の薬局のサービス向上にも寄与できることを願っています。
 
-* Services (job queues, cache servers, search engines, etc.)
+### ターゲットユーザ
 
-* Deployment instructions
+- できるだけ安く処方薬がもらえる薬局を探している人
+- サービスが充実した薬局を探している人
 
-* ...
+### 主な利用シーン
+
+- たまには違う薬局で薬をもらいたいと感じた時
+- いつもの薬局の待ち時間が長いと感じた時
+- 豊富なサービスを享受できる薬局を探している時
+
+---
+
+## 設計書
+
+---
+
+後ほど作成予定
+
+---
+
+## 開発環境
+
+---
+
+- OS：Linux
+- 言語：HTML,CSS,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+---
+
+## 使用素材
+
+---
+
+- photoAC　写真のフリー素材サイト　https://www.photo-ac.com/
